@@ -1,0 +1,6 @@
+{
+  "name": "Ритейл навигатор",
+  "description": "Онлайн-сервис юнит-экономики для локальных производителей при выходе в ритейл и торговые сети",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
